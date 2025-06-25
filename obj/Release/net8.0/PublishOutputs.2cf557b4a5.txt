@@ -1,0 +1,12 @@
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Api.exe
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\appsettings.Development.json
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\appsettings.json
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Api.dll
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Api.deps.json
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Api.runtimeconfig.json
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Api.pdb
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Microsoft.OpenApi.dll
+C:\Users\Fellype\Documents\Programação\React\Formulario\FormCouser\Api\publish\Npgsql.dll
