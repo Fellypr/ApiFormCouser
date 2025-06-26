@@ -21,6 +21,6 @@ namespace Api.services
 
         public string Course { get; set; }
 
-        public DateTime DateCreate { get; set; }
+        public DateTime? DateCreate { get; set; }
     }
 }

@@ -67,6 +67,8 @@ namespace Api.Controller
         [HttpPost("BuscarAlunos")]
         public async Task<IActionResult> BuscarAlunos([FromBody] Buscar buscar)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
             try
             {
                 var conectionStr = _config.GetConnectionString("DefaultConnection");
